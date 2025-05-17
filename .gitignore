@@ -1,0 +1,40 @@
+# Environment variables and API keys
+.env
+temp.env
+
+# Directories for downloaded and generated content
+downloads/
+output/
+temp_test_*/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini 
